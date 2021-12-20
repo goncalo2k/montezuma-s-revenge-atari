@@ -7,7 +7,7 @@
 
 1. Criar um clone do clássico Sokoban em Pygame...
 
-2. Em alternativa... do clássico x em Pygame.
+2. Em alternativa... do clássico Atari em Pygame.
 
 ### Descrição
 
